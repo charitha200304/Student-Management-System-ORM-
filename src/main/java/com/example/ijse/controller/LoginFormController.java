@@ -13,6 +13,11 @@ public class LoginFormController {
     private TextField txtUserID;
 
     @FXML
+    void btnLogInOnAction(ActionEvent event) {
+
+    }
+
+    @FXML
     void btnRegisterOnAction(ActionEvent event) {
 
     }
